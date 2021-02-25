@@ -1,5 +1,5 @@
 # AlgoToolbox
-Guide for the Algorithmic toolbox course on Coursera.  The course contents are as follows:
+Guide for the Algorithmic toolbox course on Coursera.<br/>The course contents are as follows:
   # **Week 1**
   - Sum of two integers
   - Maximum Pairwise Product Problem
